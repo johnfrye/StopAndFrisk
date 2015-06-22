@@ -1,5 +1,5 @@
 # StopAndFrisk
-Files support StableMarkets post here:
+Files support StableMarkets post here: https://stablemarkets.wordpress.com/2015/06/22/stop-and-frisk-blacks-stopped-3-6-times-more-than-whites-over-10-years
 
 The files clean and analyze NYC's publicly available stop and frisk data (see 1.0 code for URL to data).
 1.0 Imports the data and subets to relevant variables. The code also contains URLs to raw data and data dictionary.
