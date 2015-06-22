@@ -9,5 +9,8 @@ Run 1.0 to import that data from the web and replace the file path in setwd() to
 Run 2.0 to clean selected variables. Particularly interested fields include "xcoord" and "ycoord", 
 which are the coordinates for the stop location. However, these don't seem to be accurate. If anyone can make sense
 out of these fields, it would be extremely useful. We could map the location of the stops over time.
+- Update: the coordinates are given in US state Plane Coordinate Systems for New York 3104, Long Island Zone (1983 Survey feet). This needs to be converted to longitude and lattitude coordinates before plotting in R.
 
 Run 3.0 to produce the charts in the StableMarkets post.
+
+
