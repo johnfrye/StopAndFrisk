@@ -12,7 +12,7 @@ unlink(temp)
 rm(temp,url,i)
 
 #### 2. Save each of the downloaded files as csv...one csv for each year ####
-setwd('.../Stable Markets/Stop and Frisk/data')
+setwd('/Users/arman/Dropbox/Stable Markets/Stop and Frisk/data')
 
 # function keep_vars() subsets each year's dataset to only selected variables.
 # Note: not all datsets have the same variables. 
